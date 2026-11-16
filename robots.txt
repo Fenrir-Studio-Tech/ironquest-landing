@@ -1,0 +1,23 @@
+User-Agent: *
+Allow: /
+Disallow: /lab/
+
+User-Agent: GPTBot
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: ClaudeBot
+User-Agent: Claude-SearchBot
+User-Agent: Claude-User
+User-Agent: PerplexityBot
+User-Agent: Perplexity-User
+User-Agent: Google-Extended
+User-Agent: Applebot-Extended
+User-Agent: Bingbot
+User-Agent: CCBot
+User-Agent: Meta-ExternalAgent
+User-Agent: MistralAI-User
+Allow: /
+Disallow: /lab/
+
+Host: https://ironquest.app
+Sitemap: https://ironquest.app/sitemap.xml
