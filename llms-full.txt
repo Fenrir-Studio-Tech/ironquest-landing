@@ -89,7 +89,7 @@ IronQuest is on the App Store for iPhone. The rest timer runs in the Dynamic Isl
 URL: https://ironquest.app/tools
 Updated: 2026-11-20
 
-Six free tools for people who lift: shoulder to waist ratio, BMI, bulk or cut calories, a 3-day program, exercise alternatives and a workout app comparison.
+Six free tools for people who lift: shoulder to waist ratio, BMI, bulk or cut calories, a 3-day program, a library of 4,510 exercises and a workout app comparison.
 
 ### Shoulder to waist ratio calculator (golden ratio)
 
@@ -119,19 +119,19 @@ Updated: 2026-11-20
 
 The 3 IronQuest gym sessions, 125 min a week, with every exercise, set, rep and rest time. Enter your set 1 weight and the program fills sets 2 and 3, with swaps and a rest timer.
 
-### Exercise alternatives: find a swap for any exercise
+### Exercise library: 4,510 gym exercises with muscles worked and alternatives
 
 URL: https://ironquest.app/exercises
 Updated: 2026-11-20
 
-Search any gym exercise and get the alternatives that train the same muscles, filtered by the equipment you have.
+Search 4,510 gym exercises by body part, equipment and movement. The 786 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
 
 ### Gym app comparison: IronQuest vs Fitbod, Hevy, Strong, Liftoff and MacroFactor
 
 URL: https://ironquest.app/compare
 Updated: 2026-11-20
 
-Pick what you need from a gym app (a training plan, nutrition, recipes, Android, a free plan) and see which of IronQuest and 5 other apps cover it, with prices checked on 16 Nov 2026.
+Pick what you need from a gym app (a training plan, nutrition, recipes, a game layer, a free trial) and see which of IronQuest and 5 other apps cover it, with prices checked on 16 Nov 2026.
 
 ## Free tools (français)
 
@@ -140,7 +140,7 @@ Pick what you need from a gym app (a training plan, nutrition, recipes, Android,
 URL: https://ironquest.app/fr/outils
 Updated: 2026-11-20
 
-Six outils gratuits pour la muscu : ratio épaules taille, IMC, calories de prise de masse ou de sèche, programme 3 jours, alternatives aux exercices et comparatif d’applis.
+Six outils gratuits pour la muscu : ratio épaules taille, IMC, calories de prise de masse ou de sèche, programme 3 jours, bibliothèque de 4 510 exercices et comparatif d’applis.
 
 ### Calculateur de ratio épaules/taille (nombre d’or)
 
@@ -170,19 +170,86 @@ Updated: 2026-11-20
 
 Les 3 séances IronQuest, 125 min par semaine, avec chaque exercice, série, rep et temps de repos. Entre ta charge de série 1 et le programme calcule les séries 2 et 3, avec remplacements et minuteur.
 
-### Remplacer un exercice de musculation : les alternatives
+### Bibliothèque d’exercices de musculation : muscles travaillés et alternatives
 
 URL: https://ironquest.app/fr/exercices
 Updated: 2026-11-20
 
-Cherche un exercice de musculation et trouve ceux qui travaillent les mêmes muscles, filtrés selon le matériel que tu as.
+Cherche parmi 4 510 exercices de musculation par muscle, matériel et type de mouvement. Les 786 plus populaires montrent la démo, les muscles travaillés, la part de chaque muscle en % et les alternatives.
 
 ### Comparatif des applis de musculation : IronQuest, Hevy, Strong, Fitbod, Liftoff et MacroFactor
 
 URL: https://ironquest.app/fr/comparatif
 Updated: 2026-11-20
 
-Choisis ce que tu attends d’une appli de muscu (programme, nutrition, recettes, Android, version gratuite) et vois lesquelles parmi IronQuest et 5 autres applis le proposent.
+Choisis ce que tu attends d’une appli de muscu (programme, nutrition, recettes, côté jeu, essai gratuit) et vois lesquelles parmi IronQuest et 5 autres applis le proposent.
+
+## Exercise library
+
+The [exercise library](https://ironquest.app/exercises) covers 4,510 gym exercises. The 786 most popular show a demo, the muscles worked, the muscle split in % and the alternatives. One page per body part:
+
+### Chest exercises
+
+URL: https://ironquest.app/exercises/muscle/chest
+Updated: 2026-11-20
+
+477 chest exercises in the IronQuest library: presses, flyes, push-ups and dips. The 94 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
+
+### Back exercises
+
+URL: https://ironquest.app/exercises/muscle/back
+Updated: 2026-11-20
+
+742 back exercises in the IronQuest library: pulldowns, pull-ups, deadlifts, hyperextensions and shrugs. The 160 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
+
+### Shoulder exercises
+
+URL: https://ironquest.app/exercises/muscle/shoulders
+Updated: 2026-11-20
+
+787 shoulder exercises in the IronQuest library: presses, raises, rows and reverse flyes. The 150 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
+
+### Arm exercises
+
+URL: https://ironquest.app/exercises/muscle/upper-arms
+Updated: 2026-11-20
+
+551 arm exercises in the IronQuest library: curls, pushdowns and extensions for the biceps and triceps. The 172 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
+
+### Forearm exercises
+
+URL: https://ironquest.app/exercises/muscle/lower-arms
+Updated: 2026-11-20
+
+156 forearm exercises in the IronQuest library: wrist curls, reverse curls and hammer curls. The 45 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
+
+### Leg exercises
+
+URL: https://ironquest.app/exercises/muscle/upper-legs
+Updated: 2026-11-20
+
+1,345 leg exercises in the IronQuest library: squats, leg presses, leg curls, extensions and hip machines. The 130 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
+
+### Calf exercises
+
+URL: https://ironquest.app/exercises/muscle/lower-legs
+Updated: 2026-11-20
+
+171 calf exercises in the IronQuest library: standing, seated and machine calf raises. The 28 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
+
+### Core exercises
+
+URL: https://ironquest.app/exercises/muscle/core
+Updated: 2026-11-20
+
+782 core exercises in the IronQuest library: crunches, planks, leg raises and twists. The 93 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
+
+### Cardio exercises
+
+URL: https://ironquest.app/exercises/muscle/cardio
+Updated: 2026-11-20
+
+183 cardio exercises in the IronQuest library: walking, running, cycling, rowing and bodyweight drills. The 23 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
 
 ## Blog
 
@@ -212,7 +279,7 @@ The paper counts sets per muscle group and never splits the shoulder into heads.
 
 #### Do pressing sets count toward side-delt volume?
 
-Count pressing for the front delts and leave it out of the side-delt total. IronQuest's exercise library lists the front delts as the main target of the standing dumbbell overhead press, with the side delts as a secondary muscle. For the bench press, the library lists the chest first and the front delts second. It doesn't list the side delts for the bench press at all.
+Count pressing for the front delts and leave it out of the side-delt total. IronQuest's exercise library lists the front delts as the main target of the standing dumbbell overhead press, with the side delts as a secondary muscle. For the bench press, the library lists the chest first and the front delts second, with no share of the work for the side delts.
 
 Bench and overhead press sets count toward the front delts here, not toward width. Lateral raises and upright rows are where the side-delt sets come from, and both have the side delts as their main target in the same library. The [dumbbell lateral raise](https://ironquest.app/exercises/dumbbell-lateral-raise-alternatives) and the [dumbbell upright row](https://ironquest.app/exercises/dumbbell-upright-row-alternatives) pages list swaps that train the same head, sorted by the equipment you have. If the dumbbell rack is crowded, the one-arm cable lateral raise is a listed alternative in IronQuest's program.
 
@@ -261,7 +328,7 @@ Q: How many reps per set for lateral raises?
 A: IronQuest's V-Taper session runs the dumbbell lateral raise at 20, 15 and 10 reps over 3 sets. The load goes up on each set as the reps come down, so set 1 is the lightest of the 3 sets.
 
 Q: Do upright rows count as side-delt sets?
-A: Yes, in IronQuest's count. The exercise library lists the side delts as the main target of the dumbbell upright row. The program's cue stops the pull just under chest height, where the program reference says the traps start taking over.
+A: Yes, in IronQuest's count. The exercise library lists the side delts as the main target of the dumbbell upright row. The program's cue stops the pull just under chest height, where the traps start taking over.
 
 Q: Do rows count as rear-delt sets?
 A: IronQuest counts rows as helper work for the rear delts. The exercise library lists the rear delts as a secondary muscle of the seated machine row. The direct rear-delt work is 3 sets of the dumbbell rear-delt raise on Friday.
@@ -276,11 +343,11 @@ Sources:
 
 ## Comparisons
 
-- [IronQuest vs Hevy: a Hevy alternative with the program and the diet included](https://ironquest.app/compare/ironquest-vs-hevy): Hevy is a free workout log for iPhone, Android and watches. IronQuest is a 3-session program plus a diet plan for a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
-- [IronQuest vs Strong: a Strong alternative that tells you what to lift and what to eat](https://ironquest.app/compare/ironquest-vs-strong): Strong is a fast gym log for iPhone, Android and Apple Watch. IronQuest adds a 3-session program, a diet protocol and ranks. Features and prices compared, checked on 16 Nov 2026.
-- [IronQuest vs Fitbod: the same 3 sessions every week, or an AI-generated workout](https://ironquest.app/compare/ironquest-vs-fitbod): Fitbod generates workouts with AI on iPhone, Android and Apple Watch. IronQuest gives one fixed 3-session program, a diet protocol and ranks. Features and prices compared, checked on 16 Nov 2026.
-- [IronQuest vs MacroFactor: training and diet in one app, or a dedicated macro tracker](https://ironquest.app/compare/ironquest-vs-macrofactor): MacroFactor is a macro tracker and diet coach with a separate workouts app. IronQuest holds a 3-session program and a diet protocol in one app. Features and prices compared, checked on 16 Nov 2026.
-- [IronQuest vs Liftoff: two gym apps with ranks, compared](https://ironquest.app/compare/ironquest-vs-liftoff): Liftoff ranks the strength of your lifts against other lifters. IronQuest ranks your consistency on a program built for a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
+- [IronQuest vs Hevy: a Hevy alternative with the program and the diet included](https://ironquest.app/compare/ironquest-vs-hevy): Hevy is a workout log and lists no diet feature. IronQuest gives a 3-session program, a calorie and protein target and ranks, all aimed at a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
+- [IronQuest vs Strong: a Strong alternative that tells you what to lift and what to eat](https://ironquest.app/compare/ironquest-vs-strong): Strong is a gym log for the program you bring and lists no diet feature. IronQuest gives a 3-session program, a calorie and protein target and ranks, all aimed at a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
+- [IronQuest vs Fitbod: the same 3 sessions every week, or a new workout each time](https://ironquest.app/compare/ironquest-vs-fitbod): Fitbod generates a new workout for each session and lists no diet plan. IronQuest gives a 3-session program, a calorie and protein target and ranks, all aimed at a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
+- [IronQuest vs MacroFactor: training and diet in one app, or a dedicated macro tracker](https://ironquest.app/compare/ironquest-vs-macrofactor): MacroFactor is a food tracker, and its training lives in a separate app with a separate subscription. IronQuest holds a 3-session program and a diet protocol in one app. Features and prices compared, checked on 16 Nov 2026.
+- [IronQuest vs Liftoff: two gym apps with ranks, compared](https://ironquest.app/compare/ironquest-vs-liftoff): Liftoff ranks the strength of your lifts and logs food with no protocol set by your body type. IronQuest ranks your consistency on a program and a diet protocol built for a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
 
 ## Exercise alternatives
 

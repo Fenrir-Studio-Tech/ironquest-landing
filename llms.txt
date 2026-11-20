@@ -34,23 +34,37 @@
 
 ## Free tools
 
-- [Free gym and diet calculators](https://ironquest.app/tools): Six free tools for people who lift: shoulder to waist ratio, BMI, bulk or cut calories, a 3-day program, exercise alternatives and a workout app comparison.
+- [Free gym and diet calculators](https://ironquest.app/tools): Six free tools for people who lift: shoulder to waist ratio, BMI, bulk or cut calories, a 3-day program, a library of 4,510 exercises and a workout app comparison.
 - [Shoulder to waist ratio calculator (golden ratio)](https://ironquest.app/golden-ratio-calculator): Enter your waist to get the shoulder circumference at 1.618 times it, your current ratio and the gap in cm or inches. Add your height for the golden waist.
 - [BMI calculator with waist-to-height ratio and body fat](https://ironquest.app/bmi-calculator): Enter your height and weight to get your BMI and its WHO band. Add your waist for the waist-to-height ratio and a body-fat estimate, which say more than BMI for people who lift.
 - [Should I bulk or cut? Calculator for calories and protein](https://ironquest.app/build-recomp-or-cut): Enter your weight, body fat and daily steps to see whether to build, recomp or cut, your daily calories and protein in grams, and the weeks it takes to reach 10 % body fat.
 - [3-day workout program for a V-taper: sets, reps and weights](https://ironquest.app/3-day-workout-program): The 3 IronQuest gym sessions, 125 min a week, with every exercise, set, rep and rest time. Enter your set 1 weight and the program fills sets 2 and 3, with swaps and a rest timer.
-- [Exercise alternatives: find a swap for any exercise](https://ironquest.app/exercises): Search any gym exercise and get the alternatives that train the same muscles, filtered by the equipment you have.
-- [Gym app comparison: IronQuest vs Fitbod, Hevy, Strong, Liftoff and MacroFactor](https://ironquest.app/compare): Pick what you need from a gym app (a training plan, nutrition, recipes, Android, a free plan) and see which of IronQuest and 5 other apps cover it, with prices checked on 16 Nov 2026.
+- [Exercise library: 4,510 gym exercises with muscles worked and alternatives](https://ironquest.app/exercises): Search 4,510 gym exercises by body part, equipment and movement. The 786 most popular show a demo, the muscles worked, the muscle split in % and the alternatives.
+- [Gym app comparison: IronQuest vs Fitbod, Hevy, Strong, Liftoff and MacroFactor](https://ironquest.app/compare): Pick what you need from a gym app (a training plan, nutrition, recipes, a game layer, a free trial) and see which of IronQuest and 5 other apps cover it, with prices checked on 16 Nov 2026.
 
 ## Free tools (français)
 
-- [Calculateurs gratuits de muscu et de nutrition](https://ironquest.app/fr/outils): Six outils gratuits pour la muscu : ratio épaules taille, IMC, calories de prise de masse ou de sèche, programme 3 jours, alternatives aux exercices et comparatif d’applis.
+- [Calculateurs gratuits de muscu et de nutrition](https://ironquest.app/fr/outils): Six outils gratuits pour la muscu : ratio épaules taille, IMC, calories de prise de masse ou de sèche, programme 3 jours, bibliothèque de 4 510 exercices et comparatif d’applis.
 - [Calculateur de ratio épaules/taille (nombre d’or)](https://ironquest.app/fr/calculateur-golden-ratio): Entre ton tour de taille pour obtenir le tour d’épaules à viser, 1,618 fois ton tour de taille, ton ratio actuel et l’écart en cm. Ajoute ta taille pour ton tour de taille idéal.
 - [Calcul IMC : calculateur d’IMC avec masse grasse](https://ironquest.app/fr/calculateur-imc): Entre ta taille et ton poids pour obtenir ton IMC et sa catégorie OMS. Ajoute ton tour de taille pour le rapport taille sur hauteur et une estimation de ta masse grasse.
 - [Prise de masse ou sèche : le calculateur de calories et protéines](https://ironquest.app/fr/prise-de-masse-ou-seche): Entre ton poids, ta masse grasse et tes pas par jour pour savoir si tu dois prendre de la masse, faire une recomposition ou sécher, avec tes calories, tes protéines et les semaines jusqu’à 10 % de masse grasse.
 - [Programme musculation 3 jours par semaine : séances, séries et charges](https://ironquest.app/fr/programme-3-jours): Les 3 séances IronQuest, 125 min par semaine, avec chaque exercice, série, rep et temps de repos. Entre ta charge de série 1 et le programme calcule les séries 2 et 3, avec remplacements et minuteur.
-- [Remplacer un exercice de musculation : les alternatives](https://ironquest.app/fr/exercices): Cherche un exercice de musculation et trouve ceux qui travaillent les mêmes muscles, filtrés selon le matériel que tu as.
-- [Comparatif des applis de musculation : IronQuest, Hevy, Strong, Fitbod, Liftoff et MacroFactor](https://ironquest.app/fr/comparatif): Choisis ce que tu attends d’une appli de muscu (programme, nutrition, recettes, Android, version gratuite) et vois lesquelles parmi IronQuest et 5 autres applis le proposent.
+- [Bibliothèque d’exercices de musculation : muscles travaillés et alternatives](https://ironquest.app/fr/exercices): Cherche parmi 4 510 exercices de musculation par muscle, matériel et type de mouvement. Les 786 plus populaires montrent la démo, les muscles travaillés, la part de chaque muscle en % et les alternatives.
+- [Comparatif des applis de musculation : IronQuest, Hevy, Strong, Fitbod, Liftoff et MacroFactor](https://ironquest.app/fr/comparatif): Choisis ce que tu attends d’une appli de muscu (programme, nutrition, recettes, côté jeu, essai gratuit) et vois lesquelles parmi IronQuest et 5 autres applis le proposent.
+
+## Exercise library
+
+The [exercise library](https://ironquest.app/exercises) covers 4,510 gym exercises. The 786 most popular show a demo, the muscles worked, the muscle split in % and the alternatives. One page per body part:
+
+- [Chest exercises](https://ironquest.app/exercises/muscle/chest): 477 exercises: presses, flyes, push-ups and dips.
+- [Back exercises](https://ironquest.app/exercises/muscle/back): 742 exercises: pulldowns, pull-ups, deadlifts, hyperextensions and shrugs.
+- [Shoulder exercises](https://ironquest.app/exercises/muscle/shoulders): 787 exercises: presses, raises, rows and reverse flyes.
+- [Arm exercises](https://ironquest.app/exercises/muscle/upper-arms): 551 exercises: curls, pushdowns and extensions for the biceps and triceps.
+- [Forearm exercises](https://ironquest.app/exercises/muscle/lower-arms): 156 exercises: wrist curls, reverse curls and hammer curls.
+- [Leg exercises](https://ironquest.app/exercises/muscle/upper-legs): 1,345 exercises: squats, leg presses, leg curls, extensions and hip machines.
+- [Calf exercises](https://ironquest.app/exercises/muscle/lower-legs): 171 exercises: standing, seated and machine calf raises.
+- [Core exercises](https://ironquest.app/exercises/muscle/core): 782 exercises: crunches, planks, leg raises and twists.
+- [Cardio exercises](https://ironquest.app/exercises/muscle/cardio): 183 exercises: walking, running, cycling, rowing and bodyweight drills.
 
 ## Blog
 
@@ -58,11 +72,11 @@
 
 ## Comparisons
 
-- [IronQuest vs Hevy: a Hevy alternative with the program and the diet included](https://ironquest.app/compare/ironquest-vs-hevy): Hevy is a free workout log for iPhone, Android and watches. IronQuest is a 3-session program plus a diet plan for a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
-- [IronQuest vs Strong: a Strong alternative that tells you what to lift and what to eat](https://ironquest.app/compare/ironquest-vs-strong): Strong is a fast gym log for iPhone, Android and Apple Watch. IronQuest adds a 3-session program, a diet protocol and ranks. Features and prices compared, checked on 16 Nov 2026.
-- [IronQuest vs Fitbod: the same 3 sessions every week, or an AI-generated workout](https://ironquest.app/compare/ironquest-vs-fitbod): Fitbod generates workouts with AI on iPhone, Android and Apple Watch. IronQuest gives one fixed 3-session program, a diet protocol and ranks. Features and prices compared, checked on 16 Nov 2026.
-- [IronQuest vs MacroFactor: training and diet in one app, or a dedicated macro tracker](https://ironquest.app/compare/ironquest-vs-macrofactor): MacroFactor is a macro tracker and diet coach with a separate workouts app. IronQuest holds a 3-session program and a diet protocol in one app. Features and prices compared, checked on 16 Nov 2026.
-- [IronQuest vs Liftoff: two gym apps with ranks, compared](https://ironquest.app/compare/ironquest-vs-liftoff): Liftoff ranks the strength of your lifts against other lifters. IronQuest ranks your consistency on a program built for a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
+- [IronQuest vs Hevy: a Hevy alternative with the program and the diet included](https://ironquest.app/compare/ironquest-vs-hevy): Hevy is a workout log and lists no diet feature. IronQuest gives a 3-session program, a calorie and protein target and ranks, all aimed at a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
+- [IronQuest vs Strong: a Strong alternative that tells you what to lift and what to eat](https://ironquest.app/compare/ironquest-vs-strong): Strong is a gym log for the program you bring and lists no diet feature. IronQuest gives a 3-session program, a calorie and protein target and ranks, all aimed at a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
+- [IronQuest vs Fitbod: the same 3 sessions every week, or a new workout each time](https://ironquest.app/compare/ironquest-vs-fitbod): Fitbod generates a new workout for each session and lists no diet plan. IronQuest gives a 3-session program, a calorie and protein target and ranks, all aimed at a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
+- [IronQuest vs MacroFactor: training and diet in one app, or a dedicated macro tracker](https://ironquest.app/compare/ironquest-vs-macrofactor): MacroFactor is a food tracker, and its training lives in a separate app with a separate subscription. IronQuest holds a 3-session program and a diet protocol in one app. Features and prices compared, checked on 16 Nov 2026.
+- [IronQuest vs Liftoff: two gym apps with ranks, compared](https://ironquest.app/compare/ironquest-vs-liftoff): Liftoff ranks the strength of your lifts and logs food with no protocol set by your body type. IronQuest ranks your consistency on a program and a diet protocol built for a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
 
 ## Exercise alternatives
 

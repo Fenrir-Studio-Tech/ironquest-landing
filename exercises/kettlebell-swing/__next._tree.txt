@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/21dv-v1n3n7uu.css","style"]
+:HL["/_next/static/media/1ccf8ef962b3f693-s.p.0gwn7w9k-i020.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/374a88ea0960b3d4-s.p.2fz20jxmyia8o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/638f182e7ded7477-s.p.1yexyk_f9-p2r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dc0c65e819e3bb6c-s.p.1d4mg4yt567i3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/2oszy-zibkaxh.css","style"]
+:HL["/_next/static/chunks/19wnpl3zszh5y.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(en)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"exercises","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kettlebell-swing","siblings":["muscle"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"5jX5sdKe0gMbtZp-F4yEY"}
