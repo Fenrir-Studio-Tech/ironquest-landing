@@ -32,15 +32,32 @@
 - Website: https://ironquest.app
 - Contact: contact@fenrirstudio.io
 
-## Guides
+## Free tools
 
-- [Golden ratio body calculator](https://ironquest.app/golden-ratio-calculator): The golden ratio body is a shoulder circumference 1.618 times the waist. Enter your waist to get the shoulder measurement to reach, the gap to it, and the golden waist for your height.
-- [The 3-day gym program for a V-shaped body: 2 hours a week](https://ironquest.app/3-day-workout-program): The full IronQuest starter program: V-Taper (44 min), Iron Legs (43 min) and Boulder Shoulders (38 min), with every exercise, the reps of each set, the rest, the alternatives and the progression rule.
-- [Build, recomp or cut: which one for your body fat](https://ironquest.app/build-recomp-or-cut): How IronQuest picks build, recomp or cut from your body type, sets the daily calorie and protein target from your lean mass and body fat, and switches a cut to a build at 10 % body fat.
+- [Free gym and diet calculators](https://ironquest.app/tools): Six free tools for people who lift: shoulder to waist ratio, BMI, bulk or cut calories, a 3-day program, exercise alternatives and a workout app comparison.
+- [Shoulder to waist ratio calculator (golden ratio)](https://ironquest.app/golden-ratio-calculator): Enter your waist to get the shoulder circumference at 1.618 times it, your current ratio and the gap in cm or inches. Add your height for the golden waist.
+- [BMI calculator with waist-to-height ratio and body fat](https://ironquest.app/bmi-calculator): Enter your height and weight to get your BMI and its WHO band. Add your waist for the waist-to-height ratio and a body-fat estimate, which say more than BMI for people who lift.
+- [Should I bulk or cut? Calculator for calories and protein](https://ironquest.app/build-recomp-or-cut): Enter your weight, body fat and daily steps to see whether to build, recomp or cut, your daily calories and protein in grams, and the weeks it takes to reach 10 % body fat.
+- [3-day workout program for a V-taper: sets, reps and weights](https://ironquest.app/3-day-workout-program): The 3 IronQuest gym sessions, 125 min a week, with every exercise, set, rep and rest time. Enter your set 1 weight and the program fills sets 2 and 3, with swaps and a rest timer.
+- [Exercise alternatives: find a swap for any exercise](https://ironquest.app/exercises): Search any gym exercise and get the alternatives that train the same muscles, filtered by the equipment you have.
+- [Gym app comparison: IronQuest vs Fitbod, Hevy, Strong, Liftoff and MacroFactor](https://ironquest.app/compare): Pick what you need from a gym app (a training plan, nutrition, recipes, Android, a free plan) and see which of IronQuest and 5 other apps cover it, with prices checked on 16 Nov 2026.
+
+## Free tools (français)
+
+- [Calculateurs gratuits de muscu et de nutrition](https://ironquest.app/fr/outils): Six outils gratuits pour la muscu : ratio épaules taille, IMC, calories de prise de masse ou de sèche, programme 3 jours, alternatives aux exercices et comparatif d’applis.
+- [Calculateur de ratio épaules/taille (nombre d’or)](https://ironquest.app/fr/calculateur-golden-ratio): Entre ton tour de taille pour obtenir le tour d’épaules à viser, 1,618 fois ton tour de taille, ton ratio actuel et l’écart en cm. Ajoute ta taille pour ton tour de taille idéal.
+- [Calcul IMC : calculateur d’IMC avec masse grasse](https://ironquest.app/fr/calculateur-imc): Entre ta taille et ton poids pour obtenir ton IMC et sa catégorie OMS. Ajoute ton tour de taille pour le rapport taille sur hauteur et une estimation de ta masse grasse.
+- [Prise de masse ou sèche : le calculateur de calories et protéines](https://ironquest.app/fr/prise-de-masse-ou-seche): Entre ton poids, ta masse grasse et tes pas par jour pour savoir si tu dois prendre de la masse, faire une recomposition ou sécher, avec tes calories, tes protéines et les semaines jusqu’à 10 % de masse grasse.
+- [Programme musculation 3 jours par semaine : séances, séries et charges](https://ironquest.app/fr/programme-3-jours): Les 3 séances IronQuest, 125 min par semaine, avec chaque exercice, série, rep et temps de repos. Entre ta charge de série 1 et le programme calcule les séries 2 et 3, avec remplacements et minuteur.
+- [Remplacer un exercice de musculation : les alternatives](https://ironquest.app/fr/exercices): Cherche un exercice de musculation et trouve ceux qui travaillent les mêmes muscles, filtrés selon le matériel que tu as.
+- [Comparatif des applis de musculation : IronQuest, Hevy, Strong, Fitbod, Liftoff et MacroFactor](https://ironquest.app/fr/comparatif): Choisis ce que tu attends d’une appli de muscu (programme, nutrition, recettes, Android, version gratuite) et vois lesquelles parmi IronQuest et 5 autres applis le proposent.
+
+## Blog
+
+- [How many sets a week do shoulders need?](https://ironquest.app/blog/how-many-sets-a-week-for-shoulders): Aim for about 10 hard sets a week of side-delt work, counted apart from pressing. IronQuest's 3-day program gives the side delts 9 sets and a drop set.
 
 ## Comparisons
 
-- [IronQuest compared with other gym apps: Hevy, Strong, Fitbod, MacroFactor, Liftoff](https://ironquest.app/compare): Who should pick IronQuest and who should pick Hevy, Strong, Fitbod, MacroFactor or Liftoff. One table of purpose, training plan, nutrition, platforms and price, checked on 16 Nov 2026.
 - [IronQuest vs Hevy: a Hevy alternative with the program and the diet included](https://ironquest.app/compare/ironquest-vs-hevy): Hevy is a free workout log for iPhone, Android and watches. IronQuest is a 3-session program plus a diet plan for a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
 - [IronQuest vs Strong: a Strong alternative that tells you what to lift and what to eat](https://ironquest.app/compare/ironquest-vs-strong): Strong is a fast gym log for iPhone, Android and Apple Watch. IronQuest adds a 3-session program, a diet protocol and ranks. Features and prices compared, checked on 16 Nov 2026.
 - [IronQuest vs Fitbod: the same 3 sessions every week, or an AI-generated workout](https://ironquest.app/compare/ironquest-vs-fitbod): Fitbod generates workouts with AI on iPhone, Android and Apple Watch. IronQuest gives one fixed 3-session program, a diet protocol and ranks. Features and prices compared, checked on 16 Nov 2026.
@@ -49,7 +66,7 @@
 
 ## Exercise alternatives
 
-- [Exercise alternatives: 242 gym exercises and what to do instead](https://ironquest.app/exercises): Alternatives for 242 gym exercises, grouped by muscle group. Each page lists the closest swaps for one exercise by equipment: machine, cable, barbell, dumbbells, bands and bodyweight.
+- [Ab wheel rollout alternatives: 8 exercises that train the same muscles](https://ironquest.app/exercises/ab-wheel-rollout-alternatives): The closest alternatives to the ab wheel rollout are the band assisted wheel rollout, the barbell rollout and the standing wheel rollout. The full list has 8 exercises on 6 kinds of equipment.
 
 ## Full text
 

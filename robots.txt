@@ -10,12 +10,23 @@ User-Agent: Claude-SearchBot
 User-Agent: Claude-User
 User-Agent: PerplexityBot
 User-Agent: Perplexity-User
+User-Agent: Googlebot
 User-Agent: Google-Extended
+User-Agent: Applebot
 User-Agent: Applebot-Extended
 User-Agent: Bingbot
-User-Agent: CCBot
+User-Agent: DuckAssistBot
+User-Agent: Amazonbot
+User-Agent: Amzn-SearchBot
+User-Agent: Amzn-User
+User-Agent: YouBot
 User-Agent: Meta-ExternalAgent
+User-Agent: Meta-ExternalFetcher
+User-Agent: Meta-WebIndexer
 User-Agent: MistralAI-User
+User-Agent: MistralAI-Index
+User-Agent: MistralAI-Training
+User-Agent: CCBot
 Allow: /
 Disallow: /lab/
 

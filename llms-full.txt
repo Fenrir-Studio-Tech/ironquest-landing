@@ -82,15 +82,200 @@ IronQuest Unlimited is an auto-renewing subscription, monthly or yearly. Each pl
 
 IronQuest is on the App Store for iPhone. The rest timer runs in the Dynamic Island and on the lock screen, and IronQuest syncs with Apple Health with your permission.
 
-## Guides
+## Free tools
 
-- [Golden ratio body calculator](https://ironquest.app/golden-ratio-calculator): The golden ratio body is a shoulder circumference 1.618 times the waist. Enter your waist to get the shoulder measurement to reach, the gap to it, and the golden waist for your height.
-- [The 3-day gym program for a V-shaped body: 2 hours a week](https://ironquest.app/3-day-workout-program): The full IronQuest starter program: V-Taper (44 min), Iron Legs (43 min) and Boulder Shoulders (38 min), with every exercise, the reps of each set, the rest, the alternatives and the progression rule.
-- [Build, recomp or cut: which one for your body fat](https://ironquest.app/build-recomp-or-cut): How IronQuest picks build, recomp or cut from your body type, sets the daily calorie and protein target from your lean mass and body fat, and switches a cut to a build at 10 % body fat.
+### Free gym and diet calculators
+
+URL: https://ironquest.app/tools
+Updated: 2026-11-20
+
+Six free tools for people who lift: shoulder to waist ratio, BMI, bulk or cut calories, a 3-day program, exercise alternatives and a workout app comparison.
+
+### Shoulder to waist ratio calculator (golden ratio)
+
+URL: https://ironquest.app/golden-ratio-calculator
+Updated: 2026-11-20
+
+Enter your waist to get the shoulder circumference at 1.618 times it, your current ratio and the gap in cm or inches. Add your height for the golden waist.
+
+### BMI calculator with waist-to-height ratio and body fat
+
+URL: https://ironquest.app/bmi-calculator
+Updated: 2026-11-20
+
+Enter your height and weight to get your BMI and its WHO band. Add your waist for the waist-to-height ratio and a body-fat estimate, which say more than BMI for people who lift.
+
+### Should I bulk or cut? Calculator for calories and protein
+
+URL: https://ironquest.app/build-recomp-or-cut
+Updated: 2026-11-20
+
+Enter your weight, body fat and daily steps to see whether to build, recomp or cut, your daily calories and protein in grams, and the weeks it takes to reach 10 % body fat.
+
+### 3-day workout program for a V-taper: sets, reps and weights
+
+URL: https://ironquest.app/3-day-workout-program
+Updated: 2026-11-20
+
+The 3 IronQuest gym sessions, 125 min a week, with every exercise, set, rep and rest time. Enter your set 1 weight and the program fills sets 2 and 3, with swaps and a rest timer.
+
+### Exercise alternatives: find a swap for any exercise
+
+URL: https://ironquest.app/exercises
+Updated: 2026-11-20
+
+Search any gym exercise and get the alternatives that train the same muscles, filtered by the equipment you have.
+
+### Gym app comparison: IronQuest vs Fitbod, Hevy, Strong, Liftoff and MacroFactor
+
+URL: https://ironquest.app/compare
+Updated: 2026-11-20
+
+Pick what you need from a gym app (a training plan, nutrition, recipes, Android, a free plan) and see which of IronQuest and 5 other apps cover it, with prices checked on 16 Nov 2026.
+
+## Free tools (français)
+
+### Calculateurs gratuits de muscu et de nutrition
+
+URL: https://ironquest.app/fr/outils
+Updated: 2026-11-20
+
+Six outils gratuits pour la muscu : ratio épaules taille, IMC, calories de prise de masse ou de sèche, programme 3 jours, alternatives aux exercices et comparatif d’applis.
+
+### Calculateur de ratio épaules/taille (nombre d’or)
+
+URL: https://ironquest.app/fr/calculateur-golden-ratio
+Updated: 2026-11-20
+
+Entre ton tour de taille pour obtenir le tour d’épaules à viser, 1,618 fois ton tour de taille, ton ratio actuel et l’écart en cm. Ajoute ta taille pour ton tour de taille idéal.
+
+### Calcul IMC : calculateur d’IMC avec masse grasse
+
+URL: https://ironquest.app/fr/calculateur-imc
+Updated: 2026-11-20
+
+Entre ta taille et ton poids pour obtenir ton IMC et sa catégorie OMS. Ajoute ton tour de taille pour le rapport taille sur hauteur et une estimation de ta masse grasse.
+
+### Prise de masse ou sèche : le calculateur de calories et protéines
+
+URL: https://ironquest.app/fr/prise-de-masse-ou-seche
+Updated: 2026-11-20
+
+Entre ton poids, ta masse grasse et tes pas par jour pour savoir si tu dois prendre de la masse, faire une recomposition ou sécher, avec tes calories, tes protéines et les semaines jusqu’à 10 % de masse grasse.
+
+### Programme musculation 3 jours par semaine : séances, séries et charges
+
+URL: https://ironquest.app/fr/programme-3-jours
+Updated: 2026-11-20
+
+Les 3 séances IronQuest, 125 min par semaine, avec chaque exercice, série, rep et temps de repos. Entre ta charge de série 1 et le programme calcule les séries 2 et 3, avec remplacements et minuteur.
+
+### Remplacer un exercice de musculation : les alternatives
+
+URL: https://ironquest.app/fr/exercices
+Updated: 2026-11-20
+
+Cherche un exercice de musculation et trouve ceux qui travaillent les mêmes muscles, filtrés selon le matériel que tu as.
+
+### Comparatif des applis de musculation : IronQuest, Hevy, Strong, Fitbod, Liftoff et MacroFactor
+
+URL: https://ironquest.app/fr/comparatif
+Updated: 2026-11-20
+
+Choisis ce que tu attends d’une appli de muscu (programme, nutrition, recettes, Android, version gratuite) et vois lesquelles parmi IronQuest et 5 autres applis le proposent.
+
+## Blog
+
+### How many sets a week do shoulders need?
+
+URL: https://ironquest.app/blog/how-many-sets-a-week-for-shoulders
+Author: Dan Whitlock
+Updated: 2026-11-20
+
+Aim for about 10 hard sets a week of lateral raises and upright rows for the side delts. Count bench and overhead pressing for the front delts instead. The 10-set line is the top volume band in the 2017 meta-analysis by Schoenfeld, Ogborn and Krieger. IronQuest's 3-day program gives the side delts 9 sets and a drop set a week. The same program gives the rear delts and the front delts 3 direct sets each.
+
+Key facts:
+
+- In Schoenfeld, Ogborn and Krieger's 2017 meta-analysis, each extra weekly set went with 0.37 % more muscle gain.
+- IronQuest's 3-day program gives the side delts 9 sets and a drop set each week.
+- IronQuest gives the rear delts and the front delts 3 direct sets a week each.
+- In a 2019 trial of 34 trained men, more sets built more elbow flexor and thigh muscle in 8 weeks.
+- Boulder Shoulders takes 38 min, and the 3 IronQuest sessions take 125 min a week.
+
+Aim for about 10 hard sets a week for your side delts. Count lateral raises and upright rows, and leave your pressing out of that count. Bench and overhead press sets go to the front delts. A hard set here means a set that ends 0 to 3 reps short of failure. IronQuest's 3-day program gives the side delts 9 sets and a drop set a week. The same 125 min of training hold 3 direct sets for the rear delts and 3 for the front delts.
+
+#### How many sets of lateral raises a week?
+
+About 10 hard sets a week of lateral raises and upright rows is the number to start from. It comes from the [2017 meta-analysis by Schoenfeld, Ogborn and Krieger](https://doi.org/10.1080/02640414.2016.1210197), which pooled 34 training groups from 15 studies. Each extra weekly set went with a gain in muscle size 0.37 % higher. Within the same study, the higher-volume groups had a gain 3.9 % larger than the lower-volume groups. The authors also sorted volume into 3 bands per muscle: fewer than 5, 5 to 9, and 10 or more sets a week. That split only showed a trend, so treat the 10-set line as a sound target and nothing firmer.
+
+The paper counts sets per muscle group and never splits the shoulder into heads. Giving the side delts a count of their own is IronQuest's reading of it. The side delts sit at the outer edge of the shoulder, so they set its width. The [shoulder to waist ratio calculator](https://ironquest.app/golden-ratio-calculator) measures that width as shoulder circumference against 1.618 times your waist. For a lifter 1.78 m tall, it puts the golden waist at 79.6 cm and the shoulders at 128.7 cm.
+
+#### Do pressing sets count toward side-delt volume?
+
+Count pressing for the front delts and leave it out of the side-delt total. IronQuest's exercise library lists the front delts as the main target of the standing dumbbell overhead press, with the side delts as a secondary muscle. For the bench press, the library lists the chest first and the front delts second. It doesn't list the side delts for the bench press at all.
+
+Bench and overhead press sets count toward the front delts here, not toward width. Lateral raises and upright rows are where the side-delt sets come from, and both have the side delts as their main target in the same library. The [dumbbell lateral raise](https://ironquest.app/exercises/dumbbell-lateral-raise-alternatives) and the [dumbbell upright row](https://ironquest.app/exercises/dumbbell-upright-row-alternatives) pages list swaps that train the same head, sorted by the equipment you have. If the dumbbell rack is crowded, the one-arm cable lateral raise is a listed alternative in IronQuest's program.
+
+#### How many weekly sets does each head of the shoulder get?
+
+The side delts get the most, about 10 hard sets a week, and IronQuest gives the rear and front delts 3 direct sets each.
+
+| Head | Weekly hard sets | Where the number comes from | Example exercises |
+| --- | --- | --- | --- |
+| Side delts | About 10, counted apart from pressing | Top volume band of Schoenfeld, Ogborn and Krieger, 2017 | Dumbbell lateral raise, one-arm cable lateral raise, dumbbell upright row |
+| Rear delts | 3 direct sets, with rows on top | IronQuest's 3-day program | Dumbbell rear-delt raise, seated bent-over dumbbell rear-delt row |
+| Front delts | 3 direct sets, with chest pressing on top | IronQuest's 3-day program | Standing dumbbell overhead press, seated dumbbell shoulder press |
+
+The 10-set figure applies per muscle. The 3-set figures are IronQuest's choice for a program built around width, and neither paper gives a dose for any single head of the shoulder. If a station is taken, the [exercise finder](https://ironquest.app/exercises) gives swaps for any lift in the table.
+
+#### How does IronQuest's 3-day program spread the shoulder sets?
+
+V-Taper on Monday holds 6 of the 9 side-delt sets, and Boulder Shoulders on Friday holds the rest of the direct shoulder work. Each exercise counts for its main target in IronQuest's exercise library.
+
+| Session | Length | Side delts | Rear delts | Front delts |
+| --- | --- | --- | --- | --- |
+| V-Taper (Monday) | 44 min | 6 sets | 0 sets | 0 sets |
+| Iron Legs (Wednesday) | 43 min | 0 sets | 0 sets | 0 sets |
+| Boulder Shoulders (Friday) | 38 min | 3 sets and a drop set | 3 sets | 3 sets |
+| Week | 125 min | 9 sets and a drop set | 3 sets | 3 sets |
+
+V-Taper supersets the dumbbell lateral raise (20, 15 and 10 reps) with the dumbbell upright row (15, 12 and 10 reps), with no rest between the two and 1 min 30 s after each round. Boulder Shoulders has the wide dumbbell upright row at 15, 12 and 10 reps, then a drop set after set 3. Its rear-delt raise runs at the same reps, torso bent forward.
+
+The incline press, the bench press and the low-to-high cable raise list the front delts as a secondary muscle, which adds 9 helper sets a week. The low-to-high raise stays light, around 7.5 to 10 kg (16.5 to 22 lb) per side. The Iron Legs seated machine row lists the rear delts as a secondary muscle. Every set, rep and rest sits in the [3-day workout program](https://ironquest.app/3-day-workout-program).
+
+#### When do more sets stop paying off?
+
+Neither paper reports a weekly set count where growth stopped rising, so 10 sets is a starting point. The [2019 trial by Schoenfeld and colleagues](https://doi.org/10.1249/MSS.0000000000001764) put 34 trained men on 1, 3 or 5 sets per exercise per session. They trained 3 times a week for 8 weeks, so the top group did 15 sets of each exercise a week. Muscle size rose more with higher volume in the elbow flexors and both thigh sites measured.
+
+Strength didn't follow volume. Squat and bench press gains were similar in all 3 groups, and the low-volume sessions took 13 min each. The trial measured the arms and thighs with ultrasound and never measured the shoulders.
+
+That makes extra side-delt sets a size tool. Stay near 10 sets a week while the weight on the raises keeps going up. When you add volume, put it on the side delts first, because width is the goal and the 2019 data tied extra sets to muscle size.
+
+#### Who shouldn't follow these numbers?
+
+A lifter with a painful shoulder shouldn't use them to decide on more sets. The 2 papers measured muscle growth, and neither tested a sore shoulder, so get a shoulder that hurts during raises or presses checked before you add volume. The 2019 dose was also tested only on trained men, over 8 weeks. A woman, or a lifter in his first weeks of training, sits outside the group that trial measured, and its 15 sets per exercise a week say nothing about either of them.
+
+Questions:
+
+Q: How many reps per set for lateral raises?
+A: IronQuest's V-Taper session runs the dumbbell lateral raise at 20, 15 and 10 reps over 3 sets. The load goes up on each set as the reps come down, so set 1 is the lightest of the 3 sets.
+
+Q: Do upright rows count as side-delt sets?
+A: Yes, in IronQuest's count. The exercise library lists the side delts as the main target of the dumbbell upright row. The program's cue stops the pull just under chest height, where the program reference says the traps start taking over.
+
+Q: Do rows count as rear-delt sets?
+A: IronQuest counts rows as helper work for the rear delts. The exercise library lists the rear delts as a secondary muscle of the seated machine row. The direct rear-delt work is 3 sets of the dumbbell rear-delt raise on Friday.
+
+Q: How long does the Boulder Shoulders session take?
+A: Boulder Shoulders takes 38 min and holds 7 exercises in 6 blocks, from neutral-grip pull-ups to a wrist curl superset. The full IronQuest week of 3 sessions takes 125 min.
+
+Sources:
+
+- [Schoenfeld, Ogborn and Krieger, 2017, Journal of Sports Sciences](https://doi.org/10.1080/02640414.2016.1210197)
+- [Schoenfeld, Contreras, Krieger, Grgic, Delcastillo, Belliard and Alto, 2019, Medicine and Science in Sports and Exercise](https://doi.org/10.1249/MSS.0000000000001764)
 
 ## Comparisons
 
-- [IronQuest compared with other gym apps: Hevy, Strong, Fitbod, MacroFactor, Liftoff](https://ironquest.app/compare): Who should pick IronQuest and who should pick Hevy, Strong, Fitbod, MacroFactor or Liftoff. One table of purpose, training plan, nutrition, platforms and price, checked on 16 Nov 2026.
 - [IronQuest vs Hevy: a Hevy alternative with the program and the diet included](https://ironquest.app/compare/ironquest-vs-hevy): Hevy is a free workout log for iPhone, Android and watches. IronQuest is a 3-session program plus a diet plan for a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
 - [IronQuest vs Strong: a Strong alternative that tells you what to lift and what to eat](https://ironquest.app/compare/ironquest-vs-strong): Strong is a fast gym log for iPhone, Android and Apple Watch. IronQuest adds a 3-session program, a diet protocol and ranks. Features and prices compared, checked on 16 Nov 2026.
 - [IronQuest vs Fitbod: the same 3 sessions every week, or an AI-generated workout](https://ironquest.app/compare/ironquest-vs-fitbod): Fitbod generates workouts with AI on iPhone, Android and Apple Watch. IronQuest gives one fixed 3-session program, a diet protocol and ranks. Features and prices compared, checked on 16 Nov 2026.
@@ -99,7 +284,6 @@ IronQuest is on the App Store for iPhone. The rest timer runs in the Dynamic Isl
 
 ## Exercise alternatives
 
-- [Exercise alternatives: 242 gym exercises and what to do instead](https://ironquest.app/exercises): Alternatives for 242 gym exercises, grouped by muscle group. Each page lists the closest swaps for one exercise by equipment: machine, cable, barbell, dumbbells, bands and bodyweight.
 - [Ab wheel rollout alternatives: 8 exercises that train the same muscles](https://ironquest.app/exercises/ab-wheel-rollout-alternatives): The closest alternatives to the ab wheel rollout are the band assisted wheel rollout, the barbell rollout and the standing wheel rollout. The full list has 8 exercises on 6 kinds of equipment.
 - [Alternate lat pulldown alternatives: 8 exercises that train the same muscles](https://ironquest.app/exercises/alternate-lat-pulldown-alternatives): The closest alternatives to the alternate lat pulldown are the lat pulldown, the machine lat pulldown and the band kneeling one arm pulldown. The full list has 8 exercises on a cable, on a machine or with a resistance band.
 - [Archer push up alternatives: 8 exercises that train the same muscles](https://ironquest.app/exercises/archer-push-up-alternatives): The closest alternatives to the archer push up are the ring archer push-up, the dumbbell bear crawl push-up and the weighted push-up with vest. The full list has 8 exercises on 5 kinds of equipment.

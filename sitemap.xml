@@ -7,28 +7,130 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://ironquest.app/tools</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/tools" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/outils" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/tools" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ironquest.app/fr/outils</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/tools" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/outils" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/tools" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://ironquest.app/golden-ratio-calculator</loc>
-<lastmod>2026-11-16</lastmod>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/golden-ratio-calculator" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/calculateur-golden-ratio" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/golden-ratio-calculator" />
+<lastmod>2026-11-20</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 <url>
-<loc>https://ironquest.app/3-day-workout-program</loc>
-<lastmod>2026-11-16</lastmod>
+<loc>https://ironquest.app/fr/calculateur-golden-ratio</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/golden-ratio-calculator" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/calculateur-golden-ratio" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/golden-ratio-calculator" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ironquest.app/bmi-calculator</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/bmi-calculator" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/calculateur-imc" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/bmi-calculator" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ironquest.app/fr/calculateur-imc</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/bmi-calculator" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/calculateur-imc" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/bmi-calculator" />
+<lastmod>2026-11-20</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 <url>
 <loc>https://ironquest.app/build-recomp-or-cut</loc>
-<lastmod>2026-11-16</lastmod>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/build-recomp-or-cut" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/prise-de-masse-ou-seche" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/build-recomp-or-cut" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ironquest.app/fr/prise-de-masse-ou-seche</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/build-recomp-or-cut" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/prise-de-masse-ou-seche" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/build-recomp-or-cut" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ironquest.app/3-day-workout-program</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/3-day-workout-program" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/programme-3-jours" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/3-day-workout-program" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ironquest.app/fr/programme-3-jours</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/3-day-workout-program" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/programme-3-jours" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/3-day-workout-program" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ironquest.app/exercises</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/exercises" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/exercices" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/exercises" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ironquest.app/fr/exercices</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/exercises" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/exercices" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/exercises" />
+<lastmod>2026-11-20</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 <url>
 <loc>https://ironquest.app/compare</loc>
-<lastmod>2026-11-16</lastmod>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/compare" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/comparatif" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/compare" />
+<lastmod>2026-11-20</lastmod>
 <changefreq>monthly</changefreq>
-<priority>0.7</priority>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ironquest.app/fr/comparatif</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/compare" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/comparatif" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/compare" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
 </url>
 <url>
 <loc>https://ironquest.app/compare/ironquest-vs-hevy</loc>
@@ -59,12 +161,6 @@
 <lastmod>2026-11-16</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
-</url>
-<url>
-<loc>https://ironquest.app/exercises</loc>
-<lastmod>2026-11-16</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
 </url>
 <url>
 <loc>https://ironquest.app/exercises/ab-wheel-rollout-alternatives</loc>
@@ -1517,6 +1613,33 @@
 <lastmod>2026-11-16</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
+</url>
+<url>
+<loc>https://ironquest.app/blog</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/blog" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/blog" />
+<lastmod>2026-11-20</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://ironquest.app/fr/blog</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/blog" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/blog" />
+<changefreq>weekly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://ironquest.app/blog/how-many-sets-a-week-for-shoulders</loc>
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://ironquest.app/blog/authors/dan-whitlock</loc>
+<lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
 </url>
 <url>
 <loc>https://ironquest.app/privacy</loc>
