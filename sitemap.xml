@@ -6396,11 +6396,24 @@
 <loc>https://ironquest.app/fr/blog</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/blog" />
 <xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/blog" />
+<lastmod>2026-11-22</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://ironquest.app/fr/blog/combien-de-series-par-semaine-pour-les-epaules</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/blog/how-many-sets-a-week-for-shoulders" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/blog/combien-de-series-par-semaine-pour-les-epaules" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/blog/how-many-sets-a-week-for-shoulders" />
+<lastmod>2026-11-22</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://ironquest.app/blog/how-many-sets-a-week-for-shoulders</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/blog/how-many-sets-a-week-for-shoulders" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/blog/combien-de-series-par-semaine-pour-les-epaules" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://ironquest.app/blog/how-many-sets-a-week-for-shoulders" />
 <lastmod>2026-11-20</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
@@ -6408,6 +6421,12 @@
 <url>
 <loc>https://ironquest.app/blog/authors/dan-whitlock</loc>
 <lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://ironquest.app/fr/blog/auteurs/julien-masson</loc>
+<lastmod>2026-11-22</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>

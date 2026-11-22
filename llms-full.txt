@@ -341,6 +341,98 @@ Sources:
 - [Schoenfeld, Ogborn and Krieger, 2017, Journal of Sports Sciences](https://doi.org/10.1080/02640414.2016.1210197)
 - [Schoenfeld, Contreras, Krieger, Grgic, Delcastillo, Belliard and Alto, 2019, Medicine and Science in Sports and Exercise](https://doi.org/10.1249/MSS.0000000000001764)
 
+## Blog (français)
+
+### Combien de séries par semaine pour les épaules ?
+
+URL: https://ironquest.app/fr/blog/combien-de-series-par-semaine-pour-les-epaules
+Author: Julien Masson
+Updated: 2026-11-22
+
+Pour élargir les épaules, vise environ 10 séries difficiles par semaine d’élévations latérales et de rowing menton, et laisse les développés hors de ce compte. Ces 10 séries correspondent à la tranche de volume la plus haute de la méta-analyse de Schoenfeld, Ogborn et Krieger (2017). Le programme IronQuest de 3 séances donne au deltoïde latéral 9 séries et une série dégressive par semaine, plus 3 séries directes pour l’arrière d’épaule.
+
+Key facts:
+
+- Chaque série hebdomadaire en plus allait avec 0,37 % de croissance musculaire en plus (Schoenfeld, 2017).
+- Le programme IronQuest donne au deltoïde latéral 9 séries et une série dégressive par semaine.
+- L’arrière et l’avant d’épaule reçoivent chacun 3 séries directes par semaine dans IronQuest.
+- Dans l’essai de 2019, 5 séries par exercice ont fait plus de muscle que 1 série.
+- Boulder Shoulders dure 38 min, et les 3 séances IronQuest prennent 125 min par semaine.
+
+Vise environ 10 séries difficiles par semaine pour le deltoïde latéral, comptées à part des développés. Ce chiffre vaut pour les élévations latérales et le rowing menton, les deux exercices où il fait le gros du travail. Le développé couché et le développé militaire vont dans le compte de l’avant d’épaule. Dans le programme IronQuest de 3 séances, le deltoïde latéral reçoit 9 séries et une série dégressive par semaine, pour 125 min d’entraînement au total.
+
+#### Combien de séries d’élévations latérales par semaine ?
+
+Environ 10 séries difficiles par semaine, en additionnant élévations latérales et rowing menton. Le chiffre de 10 séries vient de la [méta-analyse de Schoenfeld, Ogborn et Krieger](https://doi.org/10.1080/02640414.2016.1210197), publiée en 2017 dans le Journal of Sports Sciences, qui compte les séries par muscle. Elle regroupe 15 études et 34 groupes d’entraînement. Chaque série hebdomadaire en plus y allait avec 0,37 % de croissance musculaire en plus.
+
+Les auteurs ont aussi classé le volume en 3 tranches par muscle : moins de 5 séries, 5 à 9 séries, et 10 séries ou plus par semaine. La tranche de 10 séries ou plus donnait les gains les plus forts, mais l’écart entre tranches restait une tendance. Prends donc 10 séries comme une base solide, sans y voir un seuil démontré.
+
+L’étude compte les séries par groupe musculaire et ne découpe jamais l’épaule en faisceaux. Donner un compte propre au deltoïde latéral, c’est la lecture qu’en fait IronQuest, parce que c’est lui qui fait la largeur. Le [calculateur du nombre d’or](https://ironquest.app/fr/calculateur-golden-ratio) mesure cette largeur : ton tour d’épaules face à 1,618 fois ton tour de taille. Pour 1,78 m, il donne un tour de taille idéal de 79,6 cm et des épaules à 128,7 cm.
+
+#### Les séries de développé comptent-elles pour le deltoïde latéral ?
+
+Non, elles vont dans le compte de l’avant d’épaule. La bibliothèque d’exercices d’IronQuest donne l’avant d’épaule comme muscle principal du développé militaire aux haltères debout, avec 45 % du travail. Le deltoïde latéral n’y prend que 20 %, comme muscle secondaire. Sur le développé couché aux haltères, la même bibliothèque donne 62 % aux pectoraux, 20 % à l’avant d’épaule et rien au deltoïde latéral.
+
+Pour le deltoïde latéral, les séries viennent donc des élévations latérales, où il fait 70 % du travail, et du rowing menton aux haltères, où il reste le muscle principal. Si les haltères sont pris, la [bibliothèque d’exercices](https://ironquest.app/fr/exercices) donne des remplacements du même mouvement ou d’un mouvement voisin, regroupés par matériel, avec un filtre sur le matériel que tu as.
+
+#### Combien de séries pour chaque faisceau de l’épaule ?
+
+Le deltoïde latéral prend le plus gros du volume, environ 10 séries par semaine. IronQuest donne 3 séries directes à l’arrière d’épaule et 3 à l’avant.
+
+| Faisceau | Séries difficiles par semaine | D’où vient le chiffre | Exercices |
+| --- | --- | --- | --- |
+| Deltoïde latéral | Environ 10, sans les développés | Tranche haute de Schoenfeld, Ogborn et Krieger, 2017 | Élévation latérale aux haltères, élévation latérale à un bras à la poulie, rowing menton aux haltères |
+| Arrière d’épaule | 3 séries directes | Programme IronQuest de 3 séances | Élévation arrière buste penché, rowing arrière assis buste penché |
+| Avant d’épaule | 3 séries directes, plus les développés pectoraux | Programme IronQuest de 3 séances | Développé militaire aux haltères debout, développé assis aux haltères |
+
+Le chiffre de 10 séries vaut par muscle. Les 3 séries de l’arrière et de l’avant d’épaule sont un choix d’IronQuest pour un programme tourné vers la largeur. Aucune des 2 études ne donne de dose pour un seul faisceau de l’épaule.
+
+#### Comment le programme IronQuest répartit-il les séries d’épaules ?
+
+V-Taper, le lundi, porte 6 des 9 séries directes de deltoïde latéral. Boulder Shoulders, le vendredi, porte le reste du travail direct d’épaules. Le tableau ne compte que les séries directes : les développés et le rowing assis d’Iron Legs font aussi travailler l’épaule en muscle secondaire.
+
+| Séance | Durée | Deltoïde latéral (séries directes) | Arrière d’épaule (séries directes) | Avant d’épaule (séries directes) |
+| --- | --- | --- | --- | --- |
+| V-Taper (lundi) | 44 min | 6 séries | 0 série | 0 série |
+| Iron Legs (mercredi) | 43 min | 0 série | 0 série | 0 série |
+| Boulder Shoulders (vendredi) | 38 min | 3 séries et une dégressive | 3 séries | 3 séries |
+| Semaine | 125 min | 9 séries et une dégressive | 3 séries | 3 séries |
+
+Dans V-Taper, les élévations latérales aux haltères (20, 15 puis 10 répétitions) passent en superset avec le rowing menton aux haltères (15, 12 puis 10 répétitions). Pas de repos entre les 2 exercices, puis 1 min 30 après chaque tour. Dans Boulder Shoulders, le rowing menton prise large se fait en 15, 12 puis 10 répétitions, avec une série dégressive après la troisième série. Juste avant, l’élévation arrière se fait buste penché en avant, en 15, 12 puis 10 répétitions, sans série dégressive, avec 1 min de repos.
+
+Le développé militaire aux haltères se fait strict, sans élan des jambes, en 10, 8 puis 6 répétitions. Toutes les séries, répétitions et temps de repos sont dans le [programme de 3 jours](https://ironquest.app/fr/programme-3-jours).
+
+#### À partir de combien de séries le volume ne paie plus ?
+
+Aucune des 2 études ne donne de nombre de séries où la croissance s’arrête, donc 10 séries restent un point de départ. L’[essai de 2019 de Schoenfeld et ses collègues](https://doi.org/10.1249/MSS.0000000000001764) a suivi 34 hommes entraînés pendant 8 semaines. Ils faisaient 1, 3 ou 5 séries par exercice et par séance, 3 fois par semaine.
+
+Le groupe à 5 séries a pris nettement plus de muscle que le groupe à 1 série sur les fléchisseurs du coude et sur les 2 mesures de la cuisse. L’écart avec le groupe à 3 séries n’était significatif sur aucune de ces mesures. La force n’a pas suivi : les gains au squat et au développé couché étaient proches dans les 3 groupes. Les séances du groupe à 1 série duraient 13 min. L’essai mesurait les bras et les cuisses par échographie, jamais les épaules.
+
+Pour les muscles mesurés, les 2 études vont dans le même sens : plus de séries, plus de muscle. Pour le deltoïde latéral, c’est une extrapolation, puisque l’épaule n’a jamais été mesurée. En pratique, reste vers 10 séries par semaine tant que la charge sur les élévations monte, et si tu ajoutes du volume, mets-le d’abord sur le deltoïde latéral, puisque c’est lui qui donne la largeur.
+
+#### Qui ne devrait pas suivre ces chiffres ?
+
+Une épaule qui fait mal pendant les élévations ou les développés passe avant le volume. Les 2 études mesuraient la prise de muscle et n’ont jamais testé une épaule douloureuse, alors fais-la examiner avant d’ajouter des séries. L’essai de 2019 portait aussi sur des hommes déjà entraînés, sur 8 semaines. Une femme, ou un débutant dans ses premières semaines de salle, sort du groupe mesuré, et les auteurs eux-mêmes ne garantissent pas que leurs résultats s’appliquent à eux.
+
+Questions:
+
+Q: Combien de répétitions sur les élévations latérales ?
+A: Dans la séance V-Taper d’IronQuest, les élévations latérales aux haltères se font en 20, 15 puis 10 répétitions sur 3 séries. La charge monte à chaque série pendant que les répétitions baissent, donc la première série est la plus légère.
+
+Q: Le rowing menton compte-t-il pour le deltoïde latéral ?
+A: Oui. La bibliothèque d’exercices d’IronQuest donne le deltoïde latéral comme muscle principal du rowing menton aux haltères, avec 32 % du travail, devant les trapèzes à 20 %.
+
+Q: Peut-on faire les élévations à la poulie plutôt qu’aux haltères ?
+A: Oui. Le programme IronQuest propose l’élévation latérale à un bras à la poulie à la place des haltères, aux mêmes répétitions. Pour le rowing menton large de Boulder Shoulders, le rowing menton à la poulie est l’exercice de remplacement prévu.
+
+Q: Combien de temps dure la séance Boulder Shoulders ?
+A: Boulder Shoulders dure 38 min et enchaîne 7 exercices en 6 blocs, des tractions prise neutre aux curls poignets en superset. La semaine complète d’IronQuest, en 3 séances, prend 125 min.
+
+Sources:
+
+- [Schoenfeld, Ogborn et Krieger, 2017, Journal of Sports Sciences](https://doi.org/10.1080/02640414.2016.1210197)
+- [Schoenfeld, Contreras, Krieger, Grgic, Delcastillo, Belliard et Alto, 2019, Medicine and Science in Sports and Exercise](https://doi.org/10.1249/MSS.0000000000001764)
+
 ## Comparisons
 
 - [IronQuest vs Hevy: a Hevy alternative with the program and the diet included](https://ironquest.app/compare/ironquest-vs-hevy): Hevy is a workout log and lists no diet feature. IronQuest gives a 3-session program, a calorie and protein target and ranks, all aimed at a V-shaped body. Features and prices compared, checked on 16 Nov 2026.
