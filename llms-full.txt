@@ -436,6 +436,143 @@ Sources:
 
 ## Blog (français)
 
+### Prise de masse ou sèche : par quoi commencer ?
+
+URL: https://ironquest.app/fr/blog/prise-de-masse-ou-seche-par-quoi-commencer
+Author: Élodie Garnier
+Updated: 2026-11-23
+
+Commence par la sèche si tu dépasses 15 % de masse grasse, et par la prise de masse si tu es à 15 % ou moins. Au-dessus de 15 %, IronQuest retire d’abord de 450 à 875 kcal par jour à ta maintenance selon ta masse grasse, puis moins à mesure que tu t’affines, jusqu’à 10 %. La prise de masse démarre ensuite à ta maintenance et monte par paliers de 200 kcal, 600 kcal au plus.
+
+Key facts:
+
+- IronQuest met tout homme au-dessus de 15 % de masse grasse en déficit jusqu’à 10 %.
+- Le déficit d’IronQuest vaut 875 kcal dès 25 %, 625 kcal dès 20 % et 450 kcal dès 15 %.
+- Un homme de 76 kg à 22 % de masse grasse démarre à 1 950 kcal par jour.
+- Selon Forbes (2000), les sujets minces prenaient 60 à 70 % du poids gagné en tissu maigre.
+- Chez Garthe (2011), viser 0,7 % de perte de poids par semaine a ajouté 2,1 % de masse maigre.
+
+Au-dessus de 15 % de masse grasse, commence par la sèche. À 15 % ou moins, commence par la prise de masse. Dans IronQuest, la sèche retire d’abord de 450 à 875 kcal par jour à ta maintenance selon ta masse grasse, puis 350 et 250 kcal sous 15 % et 12 %, et s’arrête à 10 %. La prise de masse démarre à ta maintenance, sans surplus, et ajoute 200 kcal par jour seulement quand ton poids ne monte plus. Un homme de 76 kg à 22 % mange ainsi 1 950 kcal par jour au départ et atteint 10 % vers la semaine 33.
+
+#### Quel protocole pour chaque silhouette ?
+
+La silhouette que tu choisis dans IronQuest donne le protocole, et ta masse grasse donne le déficit. Une silhouette maigre part en prise de masse. Un corps skinny fat fait une recomposition, et un corps musclé mais gras ou en surpoids fait une sèche. En calories, la recomposition et la sèche suivent le même calcul : un déficit fixé par ta masse grasse, jusqu’à 10 %.
+
+| Silhouette | Masse grasse prévue | Protocole | Calories au départ | Protéines par kg de masse maigre |
+| --- | --- | --- | --- | --- |
+| Maigre | 10 à 15 % | Prise de masse | Ta maintenance | 2,2 g |
+| Skinny fat | 18 à 25 % | Recomposition | Maintenance moins 450 ou 625 kcal, 875 kcal à 25 % | 2,6 g |
+| Musclé mais gras | 18 à 28 % | Sèche | Maintenance moins 450, 625 ou 875 kcal | 2,6 g |
+| En surpoids | 25 à 40 % | Sèche | Maintenance moins 875 kcal | 2,6 g |
+
+Le déficit vaut 875 kcal dès 25 % de masse grasse, 625 kcal dès 20 %, 450 kcal dès 15 %, 350 kcal dès 12 % et 250 kcal en dessous. Il baisse donc à mesure que tu t’affines. Le [calculateur prise de masse ou sèche](https://ironquest.app/fr/prise-de-masse-ou-seche) applique ces règles à ton poids, ta masse grasse et tes pas.
+
+#### Pourquoi ne pas commencer par une prise de masse quand on est gras ?
+
+Parce qu’un corps gras stocke une plus grande part du surplus en gras. Forbes a rassemblé en 2000, dans les [Annals of the New York Academy of Sciences](https://doi.org/10.1111/j.1749-6632.2000.tb06482.x), des études de suralimentation d’au moins 3 semaines. Les sujets minces prenaient 60 à 70 % du poids gagné sous forme de tissu maigre. Les sujets obèses n’en prenaient que 30 à 40 %. Le même écart se retrouvait dans l’autre sens, sur le poids perdu.
+
+Prendre de la masse à 24 % de masse grasse revient donc à payer plus cher chaque kilo de muscle, en gras qu’il faudra reperdre ensuite. La sèche passe en premier, et la prise de masse commence quand elle coûte le moins de gras.
+
+#### Que faire si tu es skinny fat ?
+
+Une recomposition : un déficit qui fait fondre le gras pendant que la musculation construit du muscle. Barakat et ses collègues ont passé en revue les études sur la recomposition en 2020, dans le [Strength and Conditioning Journal](https://doi.org/10.1519/SSC.0000000000000584). Beaucoup pensent qu’elle ne marche que chez les débutants et les personnes en surpoids. Leur revue cite pourtant de nombreuses études où des pratiquants déjà entraînés y sont arrivés aussi.
+
+Prenons un homme de 76 kg à 22 % de masse grasse, qui marche 7 500 à 9 999 pas par jour.
+
+1. Masse maigre : 76 × 0,78 = 59,3 kg.
+2. Métabolisme de base, formule de Katch-McArdle : 370 + 21,6 × 59,3 = 1 650 kcal.
+3. Maintenance : 1 650 × 1,55 = 2 558 kcal, affichée 2 550 kcal.
+4. 22 % tombe dans la tranche de 20 à 25 %, donc le déficit est de 625 kcal.
+5. Objectif : 2 558 − 625 = 1 933 kcal, arrondi à 1 950 kcal.
+6. Protéines : 2,6 × 59,3 = 154 g par jour.
+
+La projection d’IronQuest compte 7 700 kcal par kilo perdu, dont 15 % de masse maigre. Elle le fait passer sous 20 % vers la semaine 5, à 73,6 kg, et le déficit tombe alors à 450 kcal. Il atteint 15 % vers la semaine 17, à 68,4 kg, puis 10 % vers la semaine 33, à 63,8 kg.
+
+Chez un skinny fat qui débute, la balance trompe : le muscle gagné compense une partie du gras perdu, donc le tour de taille baisse plus vite que le poids. Mesure-le au niveau du nombril chaque lundi matin, à jeun, et note-le à côté du poids du jour.
+
+#### Que faire si tu es musclé mais gras ?
+
+Une sèche, avec le déficit de ta tranche. Un homme de 92 kg à 24 % de masse grasse a 69,9 kg de masse maigre et une maintenance de 2 914 kcal à 7 500 à 9 999 pas par jour, affichée 2 900 kcal. Sa tranche de 20 à 25 % lui retire 625 kcal, donc il mange 2 300 kcal et 182 g de protéines par jour.
+
+Ces 182 g correspondent à 2,6 g par kg de masse maigre. Helms, Aragon et Fitschen recommandent 2,3 à 3,1 g par kg de masse maigre aux culturistes naturels en sèche, dans le [Journal of the International Society of Sports Nutrition en 2014](https://doi.org/10.1186/1550-2783-11-20). Ils y conseillent aussi de perdre 0,5 à 1 % du poids de corps par semaine.
+
+Ici, la première semaine retire environ 0,57 kg, soit 0,62 % de 92 kg. Pour quelqu’un qui a du muscle à garder, cette vitesse compte. Garthe et ses collègues ont comparé 2 vitesses de perte chez 24 athlètes de haut niveau en 2011, dans l’[International Journal of Sport Nutrition and Exercise Metabolism](https://doi.org/10.1123/ijsnem.21.2.97). Les 2 groupes ont perdu environ 5,5 % de leur poids. Le groupe qui visait 0,7 % par semaine a gagné 2,1 % de masse maigre, et le groupe à 1,4 % par semaine n’en a pas gagné.
+
+La projection le fait passer sous 20 % vers la semaine 10, à 86,3 kg. Il atteint 15 % vers la semaine 26, à 80,1 kg, puis 10 % vers la semaine 44, à 74,8 kg.
+
+#### Que faire si tu es en surpoids ?
+
+Une sèche aussi, avec le plus gros déficit : 875 kcal par jour tant que tu restes à 25 % ou plus. Un homme de 105 kg à 31 % de masse grasse a 72,45 kg de masse maigre. Son métabolisme de base vaut 370 + 21,6 × 72,45 = 1 935 kcal, et sa maintenance 1 935 × 1,55 = 2 999 kcal, affichée 3 000 kcal. Il mange 2 999 − 875 = 2 124 kcal, arrondi à 2 100 kcal, avec 188 g de protéines.
+
+La première semaine retire environ 0,8 kg, soit 0,76 % de son poids, dans la fourchette de 0,5 à 1 % de Helms et ses collègues. Le déficit se réduit ensuite à chaque palier de masse grasse franchi.
+
+| Semaine | Masse grasse atteinte | Poids projeté | Déficit à partir de là |
+| --- | --- | --- | --- |
+| 14 | 25 % | 94,4 kg | 625 kcal |
+| 26 | 20 % | 87,2 kg | 450 kcal |
+| 41 | 15 % | 81,0 kg | 350 kcal |
+| 52 | 12 % | 77,6 kg | 250 kcal |
+| 60 | 10 % | 75,6 kg | Fin de la sèche, maintenance |
+
+60 semaines, c’est long, et la projection suppose que tu manges ton objectif chaque jour. Dans l’appli, le bilan de chaque semaine lit ta moyenne de poids. Après 2 bilans de suite sans baisse, IronQuest retire 200 kcal de plus à ta journée, 400 kcal au plus, sans jamais passer sous ton métabolisme de base.
+
+#### Et si tu es maigre ?
+
+Commence par la prise de masse, à ta maintenance. Un homme de 66 kg à 13 % de masse grasse a 57,4 kg de masse maigre et un métabolisme de base de 1 610 kcal. À 7 500 à 9 999 pas par jour, sa maintenance vaut 2 496 kcal, affichée 2 500 kcal. Il mange 2 500 kcal et 126 g de protéines, soit 2,2 g par kg de masse maigre.
+
+Le surplus n’arrive que si le poids stagne. Après 2 bilans de suite sans hausse de la moyenne de poids, IronQuest ajoute 200 kcal par jour, puis encore 200 kcal si ça se répète, jusqu’à 600 kcal au-dessus de la maintenance. Pour cet homme, la journée peut donc monter à 2 700, 2 900 puis 3 100 kcal.
+
+Slater et ses collègues ont examiné la question du surplus en 2019, dans [Frontiers in Nutrition](https://doi.org/10.3389/fnut.2019.00131). Ils écrivent que le surplus nécessaire pour favoriser la prise de muscle n’est pas connu. Ils conseillent de commencer prudemment, entre 1 500 et 2 000 kJ par jour, soit environ 360 à 480 kcal, pour limiter le gras. IronQuest part plus bas encore, de 0 kcal, et ne monte qu’au vu de la balance. Manger 600 kcal de plus dès le premier jour, c’est parier que tu as besoin du plafond avant d’avoir vu ta courbe de poids.
+
+#### Combien de semaines avant de passer à la prise de masse ?
+
+De 0 à 60 semaines selon ton point de départ, pour les 4 hommes calculés plus haut. La sèche s’arrête au premier bilan de la semaine qui lit 10 % de masse grasse ou moins. Ton objectif devient alors la maintenance de cette semaine-là, et la prise de masse commence.
+
+| Silhouette | Départ | Maintenance | Objectif au départ | Protéines | 15 % atteint | 10 % atteint |
+| --- | --- | --- | --- | --- | --- | --- |
+| Maigre | 66 kg, 13 % | 2 500 kcal | 2 500 kcal | 126 g | Déjà en dessous | Prise de masse dès la semaine 1 |
+| Skinny fat | 76 kg, 22 % | 2 550 kcal | 1 950 kcal | 154 g | Semaine 17, 68,4 kg | Semaine 33, 63,8 kg |
+| Musclé mais gras | 92 kg, 24 % | 2 900 kcal | 2 300 kcal | 182 g | Semaine 26, 80,1 kg | Semaine 44, 74,8 kg |
+| En surpoids | 105 kg, 31 % | 3 000 kcal | 2 100 kcal | 188 g | Semaine 41, 81,0 kg | Semaine 60, 75,6 kg |
+
+Les 4 hommes marchent 7 500 à 9 999 pas par jour, ce qui donne un facteur d’activité de 1,55. Les semaines viennent du calculateur, qui applique la projection d’IronQuest et recalcule le déficit tous les 7 jours. L’homme de 92 kg part avec 2 points de masse grasse de plus que celui de 76 kg et finit 11 semaines plus tard. Son déficit de départ est le même, mais il porte 22,1 kg de gras contre 16,7 kg.
+
+#### Comment connaître ta masse grasse sans appareil ?
+
+Avec une estimation, en sachant qu’elle peut se tromper de quelques points. Quand tu choisis ta silhouette, IronQuest estime ta masse grasse avec la formule de Deurenberg, à partir de ton IMC et de ton âge, puis la garde dans la fourchette de cette silhouette. La formule compte le muscle comme du gras, d’où cette fourchette.
+
+Le [calculateur d’IMC avec masse grasse](https://ironquest.app/fr/calculateur-imc) donne une autre estimation, à partir de ton tour de taille. Pour choisir entre sèche et prise de masse, une erreur de 2 points ne pèse qu’autour de 15 %, là où le verdict bascule. Et même là, l’écart de départ reste petit : 450 kcal de déficit d’un côté, ta maintenance sans surplus de l’autre.
+
+#### Pour qui ces chiffres ne marchent pas ?
+
+Pour les femmes. Les tranches de masse grasse, les déficits et l’arrivée à 10 % sont les règles d’IronQuest pour les hommes. Pour une femme, le calculateur donne seulement la maintenance et un objectif de protéines.
+
+Pour les métiers physiques aussi. Tes pas ne voient pas les cartons que tu portes toute la journée, donc ta vraie maintenance est plus haute que celle du calcul, et ton poids baissera plus vite que la projection.
+
+Dans IronQuest, tu reçois dès le premier jour tes calories, tes protéines en grammes et ta courbe de poids et de masse grasse projetée sur 52 semaines. Le bilan de chaque semaine ajuste ces chiffres quand ta moyenne de poids bouge ou stagne. Tes 3 séances de musculation prennent 125 min par semaine, détaillées série par série dans le [programme sur 3 jours](https://ironquest.app/fr/programme-3-jours). L’essai gratuit dure 14 jours.
+
+Questions:
+
+Q: Un débutant doit-il commencer par une prise de masse ?
+A: Seulement s’il est à 15 % de masse grasse ou moins. Un débutant entre 15 et 25 % démarre en recomposition dans IronQuest : un déficit de 450 ou 625 kcal par jour, 2,6 g de protéines par kg de masse maigre et 3 séances de musculation par semaine. À 25 % ou plus, c’est une sèche à 875 kcal par jour.
+
+Q: Faut-il faire une sèche après une prise de masse ?
+A: Oui, si la prise de masse t’a fait repasser au-dessus de 15 % de masse grasse. Refais alors le calcul avec ta masse grasse du moment : la règle reste la même, un déficit fixé par ta masse grasse jusqu’à 10 %, puis la maintenance. Slater et ses collègues conseillent un surplus prudent pour cette raison, limiter le gras pris pendant la prise de masse.
+
+Q: Tes pas changent-ils tes calories ?
+A: Oui, ils fixent le facteur d’activité qui multiplie ton métabolisme de base : 1,2 sous 5 000 pas par jour, 1,375 jusqu’à 7 499 pas, 1,55 jusqu’à 9 999 pas et 1,725 dès 10 000 pas. Pour un homme de 76 kg à 22 %, passer de 4 000 à 8 000 pas par jour relève sa maintenance de 2 000 à 2 550 kcal.
+
+Q: Une sèche peut-elle descendre sous le métabolisme de base ?
+A: Pas dans IronQuest. Si le déficit de ta tranche ferait passer ta journée sous ton métabolisme de base, le déficit est réduit pour que ton objectif reste au niveau du métabolisme de base. Ce plancher joue surtout sous 7 500 pas par jour : à 76 kg et 22 % de masse grasse, le déficit tombe à 330 kcal sous 5 000 pas, et à 619 kcal entre 5 000 et 7 499 pas.
+
+Sources:
+
+- [Forbes, 2000, Annals of the New York Academy of Sciences](https://doi.org/10.1111/j.1749-6632.2000.tb06482.x)
+- [Slater, Dieter, Marsh, Helms, Shaw et Iraki, 2019, Frontiers in Nutrition](https://doi.org/10.3389/fnut.2019.00131)
+- [Barakat, Pearson, Escalante, Campbell et De Souza, 2020, Strength and Conditioning Journal](https://doi.org/10.1519/SSC.0000000000000584)
+- [Garthe, Raastad, Refsnes, Koivisto et Sundgot-Borgen, 2011, International Journal of Sport Nutrition and Exercise Metabolism](https://doi.org/10.1123/ijsnem.21.2.97)
+- [Helms, Aragon et Fitschen, 2014, Journal of the International Society of Sports Nutrition](https://doi.org/10.1186/1550-2783-11-20)
+
 ### Combien de séries par semaine pour les épaules ?
 
 URL: https://ironquest.app/fr/blog/combien-de-series-par-semaine-pour-les-epaules

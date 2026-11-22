@@ -73,6 +73,7 @@ The [exercise library](https://ironquest.app/exercises) covers 4,510 gym exercis
 
 ## Blog (français)
 
+- [Prise de masse ou sèche : par quoi commencer ?](https://ironquest.app/fr/blog/prise-de-masse-ou-seche-par-quoi-commencer): Au-dessus de 15 % de masse grasse, commence par une sèche jusqu’à 10 %. À 15 % ou moins, commence par une prise de masse, à ta maintenance et sans surplus.
 - [Combien de séries par semaine pour les épaules ?](https://ironquest.app/fr/blog/combien-de-series-par-semaine-pour-les-epaules): Vise environ 10 séries difficiles par semaine pour le deltoïde latéral, sans compter les développés. IronQuest lui donne 9 séries et une dégressive par semaine.
 
 ## Comparisons
