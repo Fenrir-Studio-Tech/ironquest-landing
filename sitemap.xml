@@ -6388,7 +6388,7 @@
 <loc>https://ironquest.app/blog</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://ironquest.app/blog" />
 <xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/blog" />
-<lastmod>2026-11-22</lastmod>
+<lastmod>2026-11-27</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -6398,6 +6398,12 @@
 <xhtml:link rel="alternate" hreflang="fr" href="https://ironquest.app/fr/blog" />
 <lastmod>2026-11-23</lastmod>
 <changefreq>weekly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://ironquest.app/blog/is-2-hours-a-week-at-the-gym-enough</loc>
+<lastmod>2026-11-27</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 <url>
@@ -6433,6 +6439,12 @@
 <url>
 <loc>https://ironquest.app/blog/authors/dan-whitlock</loc>
 <lastmod>2026-11-20</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://ironquest.app/blog/authors/rachel-okafor</loc>
+<lastmod>2026-11-27</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
